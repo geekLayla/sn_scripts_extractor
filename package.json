@@ -1,0 +1,21 @@
+{
+  "name": "sn_scripts_extractor",
+  "version": "1.0.0",
+  "description": "extract sn script to js",
+  "main": "index.js",
+  "repository": "git+https://github.com/geekLayla/sn_scripts_extractor.git",
+  "author": "layla ait laaraj",
+  "license": "ISC",
+  "homepage": "https://github.com/geekLayla/sn_scripts_extractor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-shell": "^0.5.2",
+    "jsdoc": "^3.4.1",
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1",
+    "minimist": "^1.2.0",
+    "request": "^2.75.0",
+    "run-sequence": "^1.2.2"
+  }
+}
